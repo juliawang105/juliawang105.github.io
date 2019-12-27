@@ -1,31 +1,11 @@
 #me-image{
-  width:90%;
-  height: 100%;
+  
   box-shadow: 29px 30px black;
   border-radius: 3px;
-  margin-left: 95px;
+  /* margin-left: 95px; */
   animation-name: fadeIn;
   animation-duration: 3s;
   
-}
-
-/* .right-box-pro{
-  display: flex; 
-  justify-content: flex-end;
-} */
-
-.about{
-  display: flex;
-  /* flex-direction: column; */
-  justify-content: center;
-  /* flex-direction: column; */
-  
-}
-
-#about{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 }
 
 .icons{
