@@ -1,0 +1,81 @@
+.me-image{
+  width:415px;
+  height: 500px;
+  box-shadow: 29px 30px black;
+  border-radius: 3px;
+  margin-left: 95px;
+  animation-name: fadeIn;
+  animation-duration: 3s;
+  
+}
+
+/* .right-box-pro{
+  display: flex; 
+  justify-content: flex-end;
+} */
+
+.about{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  /* flex-direction: column; */
+  
+}
+
+#about{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.icons{
+  display: flex;
+  /* height: 50%;
+  width: 100%; */
+  justify-content: center;
+  padding: 0px;
+  margin: 0px;
+
+}
+#skills-icons{
+  height: 150px;
+  margin-bottom: 50px;
+  margin-right: 10px;
+  margin-left: 10px
+
+}
+
+#contacts{
+  color: pink
+}
+
+.description{
+  color: white;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 5px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+a{
+  color:white 
+}
+a:hover{
+  color: silver
+}
+
+.contact{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  /* height:100%;
+  width: 100%; */
+}
+
+.contact-icon{
+  /* height:100%;
+  width: 100%; */
+}
+
